@@ -34,10 +34,6 @@ The E-Learning Android Application is a mobile-based platform that allows studen
 
 ---
 
-## 📱 Screenshots
-(Add screenshots here)
-
----
 
 ## ⚙️ Installation
 
